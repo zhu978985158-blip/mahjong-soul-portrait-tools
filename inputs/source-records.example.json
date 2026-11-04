@@ -1,0 +1,7 @@
+[
+  {
+    "asset_path": "myassets/deco/character/yasina/full/full.png",
+    "source": "/path/to/your/original-character.bundle",
+    "source_sha256": "REPLACE_WITH_YOUR_ORIGINAL_BUNDLE_SHA256"
+  }
+]
